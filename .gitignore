@@ -8,6 +8,7 @@ __pycache__/
 
 # jpg extensions
 *.jpg
+*.DS_Store
 
 # Distribution / packaging
 .Python
